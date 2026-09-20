@@ -71,7 +71,7 @@
 <div class="page-body">
   <div class="page-col">
       <h2>Request Your Free Estimate</h2>
-    <form id="estimate" class="form-card" action="{{FORM_ACTION_URL}}" method="post">
+    <form id="estimate" class="form-card" action="{{FORM_ACTION_URL}}" method="post" enctype="multipart/form-data">
       <div class="hp" aria-hidden="true"><label>Leave this empty<input type="text" name="company" tabindex="-1" autocomplete="off"></label></div>
       <input type="hidden" name="source_page" value="/contact/">
       <div class="field">
@@ -132,6 +132,11 @@
       <div class="field">
         <label for="f-details">Where are you seeing them, and for how long?</label>
         <textarea id="f-details" name="details"></textarea>
+      </div>
+      <div class="field">
+        <label for="f-photo">Photo of the pest (optional)</label>
+        <input id="f-photo" name="photo" type="file" accept="image/*">
+        <span class="field-hint">A clear photo helps us identify what you have.</span>
       </div>
       <div class="field">
         <label for="f-time">Best time to reach you</label>
@@ -203,7 +208,7 @@
       <div>
         <h3>Grove Guard Pest Control</h3>
         <p>Pest control for homes and businesses in Downers Grove, IL and nearby areas.</p>
-        <p>Phone: <a href="tel:+16305550184">(630) 555-0184</a><br>Email: <a href="mailto:{{EMAIL}}">{{EMAIL}}</a></p>
+        <p>Phone: <a href="tel:+16305550184">(630) 555-0184</a></p>
       </div>
       <div>
         <h3>Popular services</h3>
