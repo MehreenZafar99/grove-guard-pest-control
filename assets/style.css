@@ -254,11 +254,10 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 .town-main > .content-card:first-child h2{margin-top:0}
 .town-main .content-card p{text-align:left}
 .town-main .faq{margin-top:8px}
-.town-side{display:grid;gap:16px;align-content:start}
+.town-side{display:block;align-self:start}
 .side-card{background:#fff;border:1px solid var(--pine-soft);border-left:5px solid var(--gold);border-radius:14px;padding:20px 22px;box-shadow:0 8px 22px rgba(16,37,58,.05)}
 .side-card h2{font-size:1.15rem;margin:0 0 .5em}
 .side-card p{margin:0;text-align:left}
-.town-side article.side-card:first-of-type p{font:800 1.4rem var(--f-head);letter-spacing:.01em}
 .side-card--call{background:var(--ink);color:#fff;border:0;border-left:5px solid var(--gold)}
 .side-card--call h2{color:#fff;font-size:1.45rem}
 .side-card--call p{color:#dbe6ee;margin:0 0 14px}
@@ -277,6 +276,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 
 @media (min-width:900px){
   .town-layout{grid-template-columns:minmax(0,1fr) 300px;gap:36px;align-items:start}
-  .town-side{position:sticky;top:92px}
+  .town-side{position:sticky;top:88px}
   .svc-card-grid{grid-template-columns:1fr 1fr}
 }
