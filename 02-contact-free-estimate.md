@@ -86,8 +86,8 @@ Hours: [Days and hours]
 
 **Build notes**
 
-* Send form entries to the renter by email and text right away. Speed decides who wins the job.
+* Send form entries promptly to the business contact email and phone number.
 * Add a thank you page after the form is sent, with the phone number shown again.
 * Use a tracking phone number so calls from the site can be counted.
-* Do not show a street address unless the renter has a real office in Downers Grove. Show the service area instead.
+* Confirm that any published street address belongs to the business before showing it.
 * No FAQ section on this page, as requested.

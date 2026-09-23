@@ -57,13 +57,13 @@ That is why you see them at cookouts, around trash cans, near soda cans and outd
 
 **1. Find the nest.** We look for the entrance and follow the flight paths. Wall nests may need a closer inspection.
 
-**2. Treat at the right time.** Yellow jackets are treated when most of the colony is inside the nest, usually in the evening or at night. We use products and dust made for stinging insects. *(Confirm timing and method with renter.)*
+**2. Treat at the right time.** Yellow jackets are treated when most of the colony is inside the nest, usually in the evening or at night. We use products and dust made for stinging insects. *(Confirm timing and method with business.)*
 
 **3. Treat wall and hidden nests carefully.** For nests inside walls, we treat the entrance and the void so that yellow jackets do not find another way into the home.
 
 **4. Leave the entrance open at first.** We do not seal a wall opening until we are sure the colony is gone.
 
-**5. Follow up.** We check for activity after treatment and return if we find more yellow jackets. *(Confirm with renter.)*
+**5. Follow up.** We check for activity after treatment and return if we find more yellow jackets. *(Confirm with business.)*
 
 The nest will not be used again next year, but new queens may pick a spot close to the old one. We share tips on making the area less inviting.
 
@@ -105,13 +105,13 @@ Yellow jackets have a smooth, shiny body, a slim waist and bright yellow and bla
 It is risky. Yellow jackets defend their nest and can sting many times. Home remedies like gasoline or boiling water are dangerous and often fail. We recommend calling a professional.
 
 **How long does it take for the yellow jackets to be gone?**
-Most activity drops within a day or two after treatment. Some yellow jackets that were away from the nest may return, then die off. *(Confirm with renter.)*
+Most activity drops within a day or two after treatment. Some yellow jackets that were away from the nest may return, then die off. *(Confirm with business.)*
 
 **Will the nest come back next year?**
 Old nests are not reused, and the colony dies in winter except the new queens. But a new queen may choose a spot near the old one. We treat the area and share tips to help prevent it.
 
 **Is treatment safe for pets and children?**
-Keep children and pets away from the nest area during treatment. We explain what was used and how long to stay away. *(Confirm with renter.)*
+Keep children and pets away from the nest area during treatment. We explain what was used and how long to stay away. *(Confirm with business.)*
 
 **What if the nest is inside my wall?**
 Call us right away. We treat the nest without sealing the entrance too soon and check that yellow jackets do not come inside. Walls with nests should never be cut open without professional help.

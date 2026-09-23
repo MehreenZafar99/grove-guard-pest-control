@@ -46,7 +46,7 @@ A mouse can squeeze through a gap about a quarter inch wide. That is smaller tha
 
 **2. Removal.** We use traps and other methods placed where mice travel. We choose the method based on what we find and whether you have pets or children at home.
 
-**3. Sealing entry points.** Removal alone does not fix the problem. If the gaps stay open, new mice will move in. We seal the openings with materials mice cannot chew through. *(Confirm with renter if sealing is included or priced separately.)*
+**3. Sealing entry points.** Removal alone does not fix the problem. If the gaps stay open, new mice will move in. We seal the openings with materials mice cannot chew through. *(Confirm with business if sealing is included or priced separately.)*
 
 **4. Follow up.** Most mouse problems need more than one visit. We check the traps, confirm activity has stopped and tell you what to do next.
 
@@ -109,19 +109,19 @@ We treat mice in homes and businesses throughout Downers Grove, including ZIP co
 Most likely through a small gap you cannot see. Mice can fit through an opening about a quarter inch wide. Common spots are around pipes, vents, garage doors and cracks in the foundation.
 
 **How long does it take to get rid of mice?**
-Most cases take a few weeks, depending on how many mice are inside and how many entry points there are. Sealing gaps and follow up visits are what make the results last. *(Confirm visit schedule with renter.)*
+Most cases take a few weeks, depending on how many mice are inside and how many entry points there are. Sealing gaps and follow up visits are what make the results last. *(Confirm visit schedule with business.)*
 
 **Why do I see more mice in fall and winter?**
 When it gets cold, mice move indoors to find warmth and food. That is why mouse calls go up in fall and stay high through winter in Illinois.
 
 **Is mouse control safe for my pets and children?**
-Your technician places traps and any products in safe spots and explains where they are. Tell us about pets and children at the start so we can choose the safest method. *(Confirm with renter.)*
+Your technician places traps and any products in safe spots and explains where they are. Tell us about pets and children at the start so we can choose the safest method. *(Confirm with business.)*
 
 **Should I use poison to get rid of mice?**
 We do not recommend using poison inside the home. Mice can die inside walls, which causes a bad smell, and poison can put pets and children at risk. Trapping and sealing entry points works better.
 
 **Will the mice come back?**
-They can if the gaps stay open. That is why we seal entry points and give you tips to reduce food and shelter. If activity returns during your service period, call us. *(Add guarantee details if the renter offers one.)*
+They can if the gaps stay open. That is why we seal entry points and give you tips to reduce food and shelter. If activity returns during your service period, call us. *(Add guarantee details if the business offers one.)*
 
 **How much does mouse control cost?**
 The price depends on how many mice you have, the size of your home, how many entry points need sealing and how many visits are needed. We give a free estimate and explain the price before we start.

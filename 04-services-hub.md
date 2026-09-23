@@ -139,7 +139,7 @@ Yes. Many homes have more than one issue, such as ants and spiders. We can addre
 Yes. We help with homes and businesses, including restaurants, offices, shops, rentals and warehouses. Tell us the type of property when you call or on the form.
 
 **Are your treatments safe for children and pets?**
-Treatments follow product labels and safety rules. Your technician will tell you what was used and if anything must be avoided for a short time after service. Ask about lower risk options if you have young children or pets. *(Confirm with renter.)*
+Treatments follow product labels and safety rules. Your technician will tell you what was used and if anything must be avoided for a short time after service. Ask about lower risk options if you have young children or pets. *(Confirm with business.)*
 
 ***
 

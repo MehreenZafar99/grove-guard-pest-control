@@ -47,13 +47,13 @@ Downers Grove has four very different pest seasons. Each visit is timed to the p
 
 **Winter:** We check the home for signs of rodents and pests that survive indoors, such as cockroaches and silverfish, and look for gaps that opened up over the cold months.
 
-*(Confirm the visit schedule with the renter. Some companies visit every three months on a set calendar instead of by season.)*
+*(Confirm the visit schedule with the business. Some companies visit every three months on a set calendar instead of by season.)*
 
 ***
 
 ## What Is Included
 
-*(Edit this list to match the renter's real plan.)*
+*(Edit this list to match the company's real plan.)*
 
 * Treatment around the outside of your home, including the foundation, doors, windows, garage and eaves
 * Removal of spider webs and small nests within reach
@@ -74,17 +74,17 @@ Some problems need their own service. These are separate from the plan:
 * [Mosquito Control](/mosquito-control-downers-grove-il) and [Tick Control](/tick-control-downers-grove-il) for the yard
 * Squirrels, raccoons, bats and other wildlife
 
-*(Confirm with renter which of these, if any, can be added to the plan.)*
+*(Confirm with business which of these, if any, can be added to the plan.)*
 
 ***
 
 ## What to Expect From Your Visits
 
-**The first visit is the longest.** The technician inspects your home inside and out, treats the outside and talks with you about what you have been seeing. This can take up to an hour or more, depending on the size of your home and yard. *(Confirm time with renter.)*
+**The first visit is the longest.** The technician inspects your home inside and out, treats the outside and talks with you about what you have been seeing. This can take up to an hour or more, depending on the size of your home and yard. *(Confirm time with business.)*
 
-**Later visits are shorter.** Regular visits mainly cover the outside of the home and usually take less time. *(Confirm time with renter.)*
+**Later visits are shorter.** Regular visits mainly cover the outside of the home and usually take less time. *(Confirm time with business.)*
 
-**You may not need to be home.** If the technician can reach your yard and the exterior of the house, you can stay out. For indoor treatment, someone needs to let the technician in. *(Confirm with renter.)*
+**You may not need to be home.** If the technician can reach your yard and the exterior of the house, you can stay out. For indoor treatment, someone needs to let the technician in. *(Confirm with business.)*
 
 ***
 
@@ -105,25 +105,25 @@ We offer the plan in Downers Grove, including ZIP codes 60515 and 60516, and in 
 ## Frequently Asked Questions
 
 **How much does the plan cost?**
-The price depends on the size of your home and yard, the pests you deal with and how often we visit. We give a free estimate and explain what is included before you sign up. *(Confirm billing method with renter, such as monthly or per visit.)*
+The price depends on the size of your home and yard, the pests you deal with and how often we visit. We give a free estimate and explain what is included before you sign up. *(Confirm billing method with business, such as monthly or per visit.)*
 
 **How often will you visit?**
-We visit four times a year, once each season. Your technician will schedule your next visit before leaving so you know when to expect us. *(Confirm with renter.)*
+We visit four times a year, once each season. Your technician will schedule your next visit before leaving so you know when to expect us. *(Confirm with business.)*
 
 **Do I need to be home for each visit?**
 Not for outside treatments as long as we can get to the yard. For indoor treatments, someone needs to be home.
 
 **Will the plan get rid of mice?**
-The plan helps keep mice out by checking for gaps and treating the outside of your home. If you already have mice inside, you will need [Mouse Control](/mouse-control-downers-grove-il) to remove them first. *(Confirm with renter.)*
+The plan helps keep mice out by checking for gaps and treating the outside of your home. If you already have mice inside, you will need [Mouse Control](/mouse-control-downers-grove-il) to remove them first. *(Confirm with business.)*
 
 **What if pests come back between visits?**
-Call us. If pests covered by your plan return, we will come back and treat again at no extra charge. *(Edit to match the renter's guarantee.)*
+Call us. If pests covered by your plan return, we will come back and treat again at no extra charge. *(Edit to match the company's guarantee.)*
 
-**Is there a contract?** *(confirm with renter)*
+**Is there a contract?** *(confirm with business)*
 Tell us what you prefer. *(Fill in whether the plan is contract free, a one year term or month to month.)*
 
 **Is the treatment safe for children and pets?**
-Treatments follow product labels and safety rules. Most of the work happens outside, and your technician will tell you what was used and if anything needs to be avoided for a short time. *(Confirm with renter.)*
+Treatments follow product labels and safety rules. Most of the work happens outside, and your technician will tell you what was used and if anything needs to be avoided for a short time. *(Confirm with business.)*
 
 ***
 

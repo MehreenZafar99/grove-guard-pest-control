@@ -1,99 +1,55 @@
-# Page 30: Terms of Use
+# Page 30: Terms and Conditions
 
 **URL:** `/terms`
-**SEO Title:** Terms of Use | [Business Name]
-**Meta Description:** Read the terms for using the [Business Name] pest control website in Downers Grove, IL, including estimates, information on this site and our limits of liability.
+**SEO Title:** Terms and Conditions | Grove Guard Pest Control
+**Meta Description:** Read the terms and conditions for using the Grove Guard Pest Control website and requesting pest control service in Downers Grove, IL.
 
 ***
 
-## H1: Terms of Use
+## H1: Terms and Conditions
 
-**Effective date:** [Date]
+**Effective date:** September 24, 2026
 
-Welcome to the website of [Business Name] ("we," "us" or "our"). By using this website, you agree to these terms. If you do not agree, please do not use the site.
-
-***
-
-## About This Website
-
-This website gives information about pest control services for homes and businesses in Downers Grove, Illinois, and lets you request an estimate or contact us. The information here is for general purposes only.
+These Terms and Conditions govern your use of the Grove Guard Pest Control website. By visiting the website or submitting a request, you agree to these terms.
 
 ***
 
-## Information on This Site Is General
+## Website Information
 
-Our pages explain common pests, signs, seasons and treatment methods. This information is not a diagnosis of your specific problem, and it is not medical, legal or engineering advice. Every home and every infestation is different, and results depend on the pest, the property and other conditions.
+This website provides general information about residential and commercial pest control services offered by Grove Guard Pest Control in Downers Grove, Illinois and nearby communities. Information about pests, warning signs, seasonal activity and treatment methods is educational and is not a diagnosis of a specific property. Conditions vary, and an inspection may be needed before we can recommend treatment. Website content is not medical, legal or engineering advice. Anyone concerned about a bite, sting, allergic reaction or other health emergency should contact an appropriate medical professional or emergency service.
 
-If you are concerned about a bite, sting, allergic reaction or other health issue, contact a doctor or call emergency services.
+## Estimates and Pest Control Services
 
-***
+Submitting a form, calling us or requesting an estimate does not create a service contract. Any initial pricing or scheduling information is based on the details available at the time and may change after an inspection or after we learn more about the property and pest activity. Before work begins, Grove Guard Pest Control will explain the proposed service, price and expected schedule. Any separate written service agreement, treatment plan, warranty or guarantee accepted for a particular job will control that service if it differs from these website terms.
 
-## Estimates and Service
+## Acceptable Website Use
 
-* A request for an estimate does not create a service agreement
-* Prices, treatments and schedules are confirmed with you before any work begins
-* Any service agreement will be separate from these terms and will be the one that applies to the work
+You agree to use this website only for lawful purposes and to provide accurate information when contacting us. You may not interfere with the operation or security of the website, attempt to gain unauthorized access to the website or related systems, submit false requests, distribute harmful code, scrape information through automated means, or use the website in a manner that harms Grove Guard Pest Control or another person. We may restrict access when we reasonably believe the website is being misused.
 
-***
+## Communications and Privacy
 
-## Using the Website
+When you submit a request or contact Grove Guard Pest Control, you agree that we may respond by phone, text message or email regarding your estimate, appointment or service. Message and data rates may apply. Information submitted through the website is handled according to our [Privacy Policy](/privacy-policy/), which forms part of these terms.
 
-You agree to use this site for lawful purposes and to give accurate information when you contact us. You agree not to:
+## Ownership of Website Content
 
-* Use the site in a way that could harm it or interfere with other users
-* Try to gain unauthorized access to the site or its systems
-* Copy, collect or reuse content from the site for commercial purposes without our written permission
-* Send spam or false requests through our forms
+The website's text, graphics, photographs, logos, layout and other materials belong to Grove Guard Pest Control or are used with permission. You may view or print pages for personal, noncommercial use. You may not reproduce, republish, sell, modify or distribute website content for commercial purposes without prior written permission.
 
-***
+## Third-Party Websites
 
-## Contact and Messages
+The website may contain links to websites operated by other organizations. These links are provided for convenience, and Grove Guard Pest Control does not control or accept responsibility for third-party content, security, availability or privacy practices. Visiting a linked website is at your own discretion and risk.
 
-When you submit a form or contact us, you agree that we may reach you by phone, text or email about your request. See our [Privacy Policy](/privacy-policy) for details on how we handle your information.
+## Website Availability and Warranties
 
-***
+This website and its content are provided on an "as is" and "as available" basis. Although we try to keep information useful and current, we do not guarantee that every page is complete, error free or continuously available. To the fullest extent permitted by law, Grove Guard Pest Control disclaims implied warranties relating to the website, including warranties of merchantability, fitness for a particular purpose and noninfringement.
 
-## Intellectual Property
+## Limitation of Liability
 
-The text, images, logos, design and other content on this website belong to us or are used with permission. You may view and print pages for your own personal use. You may not copy, republish or sell the content without our written permission.
+To the fullest extent permitted by applicable law, Grove Guard Pest Control will not be liable for indirect, incidental, special or consequential losses arising from use of the website, inability to use it or reliance on its general information. Nothing in these terms limits a right or remedy that cannot legally be limited under applicable consumer protection law.
 
-***
+## Changes and Governing Law
 
-## Links to Other Websites
-
-This site may link to other websites. We do not control them and are not responsible for their content or practices.
-
-***
-
-## No Warranties
-
-We provide this website "as is" and "as available." We do not promise that the site will always be available, error free or free of harmful components, and we do not promise that the information on it is complete or up to date.
-
-***
-
-## Limits of Liability
-
-To the fullest extent allowed by law, we are not liable for any indirect, incidental or consequential damages that come from your use of this website or from relying on information on it. Our total liability for any claim related to the website is limited to the amount allowed by law.
-
-***
-
-## Changes to These Terms
-
-We may update these terms from time to time. When we do, we will change the effective date at the top of this page. Using the site after changes means you accept the updated terms.
-
-***
-
-## Governing Law
-
-These terms are governed by the laws of the State of Illinois. Any dispute related to this website will be handled in the courts located in Illinois.
-
-***
+We may revise these Terms and Conditions when the website, our services or applicable law changes. Revised terms will be posted on this page with a new effective date, and continued website use after that date means you accept the revised terms. These terms are governed by the laws of the State of Illinois, without regard to conflict-of-law principles, and disputes relating to the website will be subject to the jurisdiction of courts located in Illinois.
 
 ## Contact Us
 
-If you have questions about these terms, contact us:
-
-**[Business Name]**
-Phone: [Phone]
-Email: [Email]
-Service area: Downers Grove, IL
+Questions about these Terms and Conditions may be directed to Grove Guard Pest Control at [contact@ilpestcontroldownersgrove.com](mailto:contact@ilpestcontroldownersgrove.com), by calling [(630) 555-0184](tel:+16305550184), or by writing to 940 Curtiss Street, Downers Grove, IL 60515.

@@ -39,7 +39,7 @@ Every rodent job follows the same five stages.
 * **Prevention advice:** We point out what is drawing rodents to your property.
 * **Follow up:** We confirm that activity has stopped.
 
-*(Confirm with renter which parts are included in the base price and which are priced separately, such as sealing work.)*
+*(Confirm with business which parts are included in the base price and which are priced separately, such as sealing work.)*
 
 ***
 
@@ -74,13 +74,13 @@ The best time to get ahead of rodents is early fall, before the first cold night
 
 ## Rodent Control vs. Wildlife Control
 
-We deal with mice and rats. We do not remove squirrels, raccoons, skunks or bats. Those animals need a licensed nuisance wildlife control operator in Illinois. *(Confirm with renter.)*
+We deal with mice and rats. We do not remove squirrels, raccoons, skunks or bats. Those animals need a licensed nuisance wildlife control operator in Illinois. *(Confirm with business.)*
 
 ***
 
 ## Ongoing Rodent Protection
 
-If rodents are a repeat problem at your home, our [Home Pest Protection Plan](/home-pest-protection-plan-downers-grove-il) includes regular checks around the outside of your home so new activity is caught early. *(Confirm with renter.)*
+If rodents are a repeat problem at your home, our [Home Pest Protection Plan](/home-pest-protection-plan-downers-grove-il) includes regular checks around the outside of your home so new activity is caught early. *(Confirm with business.)*
 
 ***
 
@@ -99,19 +99,19 @@ Yes. Mice are small, live inside walls and use tiny gaps. Rats are larger, often
 The price depends on the type of rodent, how far the problem has spread, the size of the home and how much sealing is needed. We give a free estimate and explain the price before we start.
 
 **Do I need to leave my home during service?**
-Usually not. Traps and any products are placed in areas out of reach of children and pets. Your technician will explain the plan before starting. *(Confirm with renter.)*
+Usually not. Traps and any products are placed in areas out of reach of children and pets. Your technician will explain the plan before starting. *(Confirm with business.)*
 
 **How soon can you come out?**
-Call [Phone] and we will do our best to schedule an inspection as soon as possible. Rodent calls are treated as urgent. *(Confirm availability with renter.)*
+Call [Phone] and we will do our best to schedule an inspection as soon as possible. Rodent calls are treated as urgent. *(Confirm availability with business.)*
 
 **Do you remove squirrels, raccoons or bats?**
-No. Those animals need a licensed wildlife control operator. We handle mice and rats. *(Confirm with renter.)*
+No. Those animals need a licensed wildlife control operator. We handle mice and rats. *(Confirm with business.)*
 
 **Is there a best time of year to deal with rodents?**
 Early fall is ideal because you can stop rodents before they move in for winter. But if you have signs now, act now. Waiting only gives them time to breed and cause more damage.
 
 **Can I get ongoing rodent protection?**
-Yes. Our [Home Pest Protection Plan](/home-pest-protection-plan-downers-grove-il) includes regular visits that help keep rodents out through the year. *(Confirm with renter.)*
+Yes. Our [Home Pest Protection Plan](/home-pest-protection-plan-downers-grove-il) includes regular visits that help keep rodents out through the year. *(Confirm with business.)*
 
 ***
 

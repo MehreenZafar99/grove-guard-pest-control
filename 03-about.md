@@ -16,7 +16,7 @@ We help Downers Grove homeowners and businesses get rid of pests and keep them o
 
 ## Who We Are
 
-[Business Name] is a pest control company serving Downers Grove and the nearby DuPage County towns. *(Add a short true story here: who runs the company, how long they have worked in pest control, and why they started. Use real details from the renter.)*
+[Business Name] is a pest control company serving Downers Grove and the nearby DuPage County towns. *(Add a short true story here: who runs the company, how long they have worked in pest control, and why they started. Use real details from the business.)*
 
 Our technicians live and work in the Chicago area. They know how pests behave in our climate, from mice in the first cold snap to termites after a warm spring rain.
 
@@ -30,7 +30,7 @@ Our technicians live and work in the Chicago area. They know how pests behave in
 
 **We tell you the price before we start.** You will know what the service includes and what it costs before any work begins.
 
-**We follow up.** Some pests need more than one visit. We tell you what to expect and check that the problem is gone. *(Add guarantee details if the renter offers one.)*
+**We follow up.** Some pests need more than one visit. We tell you what to expect and check that the problem is gone. *(Add guarantee details if the business offers one.)*
 
 ***
 
@@ -42,7 +42,7 @@ Pest control companies in Illinois must be licensed by the Illinois Department o
 * Certified technician on staff: [Yes, confirm]
 * Liability insurance: [Yes, confirm]
 
-*(The renter must hold a valid license. Do not publish this section until they confirm the details.)*
+*(The business must hold a valid license. Do not publish this section until they confirm the details.)*
 
 ***
 
@@ -85,8 +85,8 @@ Yes. We help homeowners, renters, landlords and businesses. Call [Phone] or send
 **How do I book a service?**
 Call [Phone] or fill out the [free estimate form](/contact). We will call you back, ask a few questions and set a time for an inspection.
 
-**Do you offer a guarantee?** *(confirm with renter)*
-If pests covered by your service come back between visits, call us and we will return to treat them again at no extra charge. *(Edit this to match the renter's real guarantee.)*
+**Do you offer a guarantee?** *(confirm with business)*
+If pests covered by your service come back between visits, call us and we will return to treat them again at no extra charge. *(Edit this to match the company's real guarantee.)*
 
 ***
 
@@ -100,6 +100,6 @@ Have a pest problem in Downers Grove? Call [Phone] or request your free estimate
 
 **Build notes**
 
-* Use real photos of the renter's team, truck or tools. Real photos build more trust than stock images.
-* Do not invent a founder name, years in business or awards. Only publish details the renter can prove.
+* Use real photos of the company's team, truck or tools. Real photos build more trust than stock images.
+* Do not invent a founder name, years in business or awards. Only publish details the business can prove.
 * Add the license number to the footer of the site too.

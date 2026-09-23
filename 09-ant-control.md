@@ -50,7 +50,7 @@ If you are not sure what you have, that is fine. A technician will identify them
 
 **5. Fix the cause.** We show you what is drawing ants, such as moisture, food sources or mulch, and what to change.
 
-**6. Follow up.** Ants can take a couple of weeks to clear completely. We check the results and adjust if needed. *(Confirm follow up with renter.)*
+**6. Follow up.** Ants can take a couple of weeks to clear completely. We check the results and adjust if needed. *(Confirm follow up with business.)*
 
 ***
 
@@ -99,16 +99,16 @@ Ants come inside looking for food and water. Crumbs, sticky spills, pet food and
 Most house ants do not bite or spread serious disease, but they can contaminate food and are hard to live with. Carpenter ants can damage wood, so it is worth knowing which type you have.
 
 **How long does it take to get rid of ants?**
-Bait can take several days to a couple of weeks to clear a colony. You may see more ants at first, which means the bait is working. We explain what to expect at your visit. *(Confirm with renter.)*
+Bait can take several days to a couple of weeks to clear a colony. You may see more ants at first, which means the bait is working. We explain what to expect at your visit. *(Confirm with business.)*
 
 **Will spraying ants myself work?**
 It may kill the ants you see, but it usually does not reach the nest. With some ants, spraying causes the colony to spread out and makes the problem bigger.
 
 **Is ant bait safe for pets and children?**
-Bait is placed in spots pets and children cannot easily reach, and your technician will tell you where it is. Let us know about pets and young children so we can plan the safest placement. *(Confirm with renter.)*
+Bait is placed in spots pets and children cannot easily reach, and your technician will tell you where it is. Let us know about pets and young children so we can plan the safest placement. *(Confirm with business.)*
 
 **Will the ants come back?**
-They can if the reason they came in is still there. We treat the colony and the outside of your home, and we show you how to reduce food, water and shelter. If they return, call us. *(Add guarantee details if the renter offers one.)*
+They can if the reason they came in is still there. We treat the colony and the outside of your home, and we show you how to reduce food, water and shelter. If they return, call us. *(Add guarantee details if the business offers one.)*
 
 **What is the difference between odorous house ants and carpenter ants?**
 Odorous house ants are small and form trails to food. Carpenter ants are much bigger and nest in wood, sometimes leaving sawdust like piles. Carpenter ants can cause damage over time, so they need different treatment.

@@ -71,7 +71,7 @@ Downers Grove has many older homes with mature trees right beside the house. Tha
 
 **4. Fix the conditions.** Carpenter ants prefer wet or damaged wood. We point out leaks, rot or gaps that need repair so they do not come back.
 
-**5. Follow up.** We check for activity and adjust the plan if needed. *(Confirm with renter.)*
+**5. Follow up.** We check for activity and adjust the plan if needed. *(Confirm with business.)*
 
 If we find wood that is already damaged, we will tell you. Repairs need a contractor, and we can advise you on what to ask for.
 
@@ -117,13 +117,13 @@ It can be hard to tell. Carpenter ants have bent antennae, a narrow waist and fr
 Spray may kill the ants you see, but it usually does not reach the nest, and the colony continues. Treating the nest and fixing the moisture that attracted them works better.
 
 **How long does it take to get rid of carpenter ants?**
-It depends on the size of the colony and how many nests there are. Many cases improve in a couple of weeks, but larger colonies can take longer. We explain what to expect at your visit. *(Confirm with renter.)*
+It depends on the size of the colony and how many nests there are. Many cases improve in a couple of weeks, but larger colonies can take longer. We explain what to expect at your visit. *(Confirm with business.)*
 
 **Will carpenter ants come back?**
-They can if the wood stays wet or a parent nest remains nearby. We treat the nests we find and help you fix what attracted them. Call us if you see new signs. *(Add guarantee details if the renter offers one.)*
+They can if the wood stays wet or a parent nest remains nearby. We treat the nests we find and help you fix what attracted them. Call us if you see new signs. *(Add guarantee details if the business offers one.)*
 
 **Is the treatment safe for children and pets?**
-Your technician uses products according to the label and tells you where they were applied and if anything needs to be avoided for a short time. Let us know about children and pets before we start. *(Confirm with renter.)*
+Your technician uses products according to the label and tells you where they were applied and if anything needs to be avoided for a short time. Let us know about children and pets before we start. *(Confirm with business.)*
 
 ***
 

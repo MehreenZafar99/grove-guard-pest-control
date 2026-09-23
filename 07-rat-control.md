@@ -50,7 +50,7 @@ Older homes with foundation cracks and gaps around pipes give rats an easy way i
 
 **2. Removal.** We place traps and other tools along the paths rats use, indoors and outdoors. We choose the method based on your property and on any pets or children.
 
-**3. Sealing entry points.** We close the openings rats use to get inside. Rats can chew through weak materials, so we use ones that hold up. *(Confirm with renter if sealing is included or priced separately.)*
+**3. Sealing entry points.** We close the openings rats use to get inside. Rats can chew through weak materials, so we use ones that hold up. *(Confirm with business if sealing is included or priced separately.)*
 
 **4. Cleaning up the reasons they came.** We show you what is attracting rats, such as loose food, open garbage or hiding places, and what to change.
 
@@ -105,16 +105,16 @@ Rats are larger, and so are their droppings and gnaw marks. Droppings from rats 
 They use gaps around pipes, vents and garage doors, cracks in the foundation, and any opening about the size of a quarter. They can also chew through weak materials to make the gap bigger.
 
 **How long does it take to get rid of rats?**
-Most problems need a few weeks. Rats are careful, so trapping can take several days to work, and follow up visits help confirm they are gone. We explain the schedule before we start. *(Confirm with renter.)*
+Most problems need a few weeks. Rats are careful, so trapping can take several days to work, and follow up visits help confirm they are gone. We explain the schedule before we start. *(Confirm with business.)*
 
 **Is rat control safe for pets and children?**
-Your technician places traps and any products in safe spots and explains where they are. Tell us about pets and children at the start so we can choose the safest approach. *(Confirm with renter.)*
+Your technician places traps and any products in safe spots and explains where they are. Tell us about pets and children at the start so we can choose the safest approach. *(Confirm with business.)*
 
 **Should I try poison myself?**
 We do not recommend it. Rats can die in walls or the attic after eating poison, and it can put pets and children at risk. Trapping and sealing entry points is more reliable.
 
 **Will rats come back?**
-They can if entry points stay open or food and shelter stay available. We seal gaps and give you tips to lower the risk. Call us if you see new signs. *(Add guarantee details if the renter offers one.)*
+They can if entry points stay open or food and shelter stay available. We seal gaps and give you tips to lower the risk. Call us if you see new signs. *(Add guarantee details if the business offers one.)*
 
 **How much does rat control cost?**
 The price depends on how many rats you have, where they live, how many entry points need sealing and how many visits are needed. We give a free estimate and explain the price before we start.

@@ -35,7 +35,7 @@ NOTE_RE = re.compile(r"[ \t]*\*\([^)]*\)\*")
 HREF_RE = re.compile(r'href="(/[^"]*)"')
 TOKEN_PLAIN = [
     ("[Business Name]", "{{BUSINESS_NAME}}"),
-    ("[Email]", "{{EMAIL}}"),
+    ("[Email]", "contact@ilpestcontroldownersgrove.com"),
     ("[Date]", "{{EFFECTIVE_DATE}}"),
     ("[License number]", "{{LICENSE_NUMBER}}"),
 ]
@@ -138,7 +138,7 @@ def inline(text: str) -> str:
 
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link_sub, text)
     text = text.replace("[Phone]", '<a href="tel:{{PHONE_TEL}}">{{PHONE_DISPLAY}}</a>')
-    text = text.replace("[Email]", '<a href="mailto:{{EMAIL}}">{{EMAIL}}</a>')
+    text = text.replace("[Email]", '<a href="mailto:contact@ilpestcontroldownersgrove.com">contact@ilpestcontroldownersgrove.com</a>')
     text = apply_plain_tokens(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     return text
@@ -510,6 +510,17 @@ def parse_markdown(path: Path) -> dict:
 NO_CTA = {"contact", "privacy-policy", "terms"}
 
 
+def side_call_card(estimate_href: str) -> str:
+    return f"""    <aside class="town-side">
+      <div class="side-card side-card--call">
+        <h2>Need pest control?</h2>
+        <p>Call or request a free estimate. We will inspect the problem and explain the price before any work starts.</p>
+        <a class="btn btn--gold" href="tel:{{{{PHONE_TEL}}}}"><svg class="i" aria-hidden="true"><use href="#i-phone"></use></svg>Call {{{{PHONE_DISPLAY}}}}</a>
+        <a class="btn btn--outline" href="{estimate_href}">Get a free estimate</a>
+      </div>
+    </aside>"""
+
+
 def render_page(page: dict, chrome: dict) -> str:
     slug = page["slug"]
     title = page["title"]
@@ -590,6 +601,25 @@ def render_page(page: dict, chrome: dict) -> str:
 </section>
 """
 
+    estimate_href = "#estimate" if cta_heading or kind == "contact" else "/contact/#estimate"
+    sidebar_html = side_call_card(estimate_href)
+    body_content = chr(10).join(body_parts)
+    if kind in {"privacy-policy", "terms"}:
+        body_html = f"""<div class="page-body">
+  <div class="page-col legal-copy">
+{body_content}
+  </div>
+</div>"""
+    else:
+        body_html = f"""<div class="page-body">
+  <div class="wrap town-layout">
+    <div class="town-main">
+{body_content}
+    </div>
+{sidebar_html}
+  </div>
+</div>"""
+
     header = chrome["header"].replace('href="#areas"', 'href="/#areas"')
     callbar = chrome["callbar"]
     if kind in {"privacy-policy", "terms"}:
@@ -637,11 +667,7 @@ def render_page(page: dict, chrome: dict) -> str:
   </div>
 </section>
 
-<div class="page-body">
-  <div class="page-col">
-{chr(10).join(body_parts)}
-  </div>
-</div>
+{body_html}
 {cta_html}
 </main>
 

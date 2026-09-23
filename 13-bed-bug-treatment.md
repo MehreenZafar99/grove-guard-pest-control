@@ -52,11 +52,11 @@ The Chicago area has a lot of people traveling in and out, which means bed bugs 
 
 **1. Inspection.** We check the bed, furniture and surrounding areas to find every place the bugs are living. This shows us how big the problem is and which rooms are affected.
 
-**2. A plan and a price.** We explain what we found and how we will treat it. *(Confirm with renter which method they use: heat, targeted products, or a combination.)*
+**2. A plan and a price.** We explain what we found and how we will treat it. *(Confirm with business which method they use: heat, targeted products, or a combination.)*
 
 **3. Treatment.** We treat the bed, furniture, baseboards and other hiding spots. Treatment may take a few hours, depending on how many rooms are affected.
 
-**4. Follow up visits.** Bed bug eggs hatch about a week after they are laid, so one visit is rarely enough. We come back to treat new bugs that hatch and confirm the problem is gone. *(Confirm number of visits and timing with renter.)*
+**4. Follow up visits.** Bed bug eggs hatch about a week after they are laid, so one visit is rarely enough. We come back to treat new bugs that hatch and confirm the problem is gone. *(Confirm number of visits and timing with business.)*
 
 ***
 
@@ -105,19 +105,19 @@ We treat bed bugs in homes and businesses throughout Downers Grove, including ZI
 Most likely from travel, used furniture or a visitor. Bed bugs hide in luggage, clothing and furniture, then move into your bed. It can be hard to know exactly when or where it happened.
 
 **How long does it take to get rid of bed bugs?**
-Most homes need more than one visit over a few weeks. Eggs hatch after treatment, so follow up visits are what finish the job. We explain the schedule before we start. *(Confirm with renter.)*
+Most homes need more than one visit over a few weeks. Eggs hatch after treatment, so follow up visits are what finish the job. We explain the schedule before we start. *(Confirm with business.)*
 
 **Do I need to throw out my mattress?**
 Usually not. Mattresses and furniture can be treated. A bed bug proof cover on the mattress and box spring can also help trap any bugs left inside.
 
 **Can I stay in my home during treatment?**
-In most cases, yes, but you may need to stay out of treated rooms for a few hours. Your technician will tell you what to expect. *(Confirm with renter.)*
+In most cases, yes, but you may need to stay out of treated rooms for a few hours. Your technician will tell you what to expect. *(Confirm with business.)*
 
 **Will bug bombs or sprays from the store work?**
 Usually not. They rarely reach where bed bugs hide and can push them deeper into walls or into other rooms, which makes treatment harder.
 
 **Is bed bug treatment safe for children and pets?**
-Your technician follows label directions and tells you which areas to avoid and for how long. Let us know about children, pets and anyone with health concerns before we start. *(Confirm with renter.)*
+Your technician follows label directions and tells you which areas to avoid and for how long. Let us know about children, pets and anyone with health concerns before we start. *(Confirm with business.)*
 
 **How can I tell if it is bed bugs or something else?**
 Bites can look like other insect bites, so the bugs and their signs are the best proof. Look for dark spots, shed skins and live bugs on the mattress and bed frame. If you are not sure, we can inspect.

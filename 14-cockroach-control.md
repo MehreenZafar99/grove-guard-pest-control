@@ -57,11 +57,11 @@ Older homes in Downers Grove often have basements and older plumbing, which give
 
 **2. Identify the roach.** German roaches need a different plan from American or Oriental roaches.
 
-**3. Treatment.** For German roaches, we use gel bait in cracks and hinges, along with products that stop young roaches from growing up. For American and Oriental roaches, we treat drains, basements, foundation areas and entry points. *(Confirm methods with renter.)*
+**3. Treatment.** For German roaches, we use gel bait in cracks and hinges, along with products that stop young roaches from growing up. For American and Oriental roaches, we treat drains, basements, foundation areas and entry points. *(Confirm methods with business.)*
 
 **4. Seal and correct.** We point out leaks, gaps and moisture problems that need attention.
 
-**5. Follow up.** German roach problems usually need a second visit a couple of weeks later to catch new roaches that hatched. We check the results and retreat if needed. *(Confirm follow up schedule with renter.)*
+**5. Follow up.** German roach problems usually need a second visit a couple of weeks later to catch new roaches that hatched. We check the results and retreat if needed. *(Confirm follow up schedule with business.)*
 
 ***
 
@@ -105,7 +105,7 @@ We treat cockroaches in homes and businesses throughout Downers Grove, including
 Roaches are drawn by warmth, moisture and hiding places, not just dirt. German roaches can arrive on boxes and grocery bags. American and Oriental roaches often come up from drains, basements and sewers.
 
 **How long does it take to get rid of roaches?**
-Most homes see improvement within days, but full control usually takes a few weeks and a follow up visit. Large infestations take longer. *(Confirm with renter.)*
+Most homes see improvement within days, but full control usually takes a few weeks and a follow up visit. Large infestations take longer. *(Confirm with business.)*
 
 **Is a roach in the daytime a bad sign?**
 Yes. Roaches usually hide by day and come out at night. Seeing them in daylight often means the hiding spots are crowded.
@@ -114,13 +114,13 @@ Yes. Roaches usually hide by day and come out at night. Seeing them in daylight 
 Sprays kill the roaches they touch, but they rarely reach the ones in walls and behind appliances. They can also make roaches scatter. Professional bait and targeted treatment works better.
 
 **Is roach treatment safe for pets and children?**
-Bait is placed in cracks and hidden areas out of reach, and your technician explains what was used and where. Tell us about pets and young children so we can plan safe placement. *(Confirm with renter.)*
+Bait is placed in cracks and hidden areas out of reach, and your technician explains what was used and where. Tell us about pets and young children so we can plan safe placement. *(Confirm with business.)*
 
 **Why did I see more roaches after treatment?**
 It can happen. Roaches leave their hiding spots after they eat bait or are disturbed. This is often a sign that the treatment is reaching them, and numbers drop over the next days.
 
 **Will roaches come back?**
-They can if moisture, food and hiding spots remain, or if new roaches come in on items or from a neighbor. We treat the source and give you tips to lower the risk. *(Add guarantee details if the renter offers one.)*
+They can if moisture, food and hiding spots remain, or if new roaches come in on items or from a neighbor. We treat the source and give you tips to lower the risk. *(Add guarantee details if the business offers one.)*
 
 ***
 

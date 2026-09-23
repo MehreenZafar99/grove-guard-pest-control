@@ -42,7 +42,7 @@ Our technician looks at the areas termites use most.
 * Areas with moisture, such as around leaks, downspouts and plumbing
 * Places where pipes and utilities enter the home
 
-We look for termites and for the damage and conditions that let them thrive. We inspect visible and reachable areas. *(Confirm with renter which tools are used, such as a flashlight, a probing tool and a moisture meter.)*
+We look for termites and for the damage and conditions that let them thrive. We inspect visible and reachable areas. *(Confirm with business which tools are used, such as a flashlight, a probing tool and a moisture meter.)*
 
 ***
 
@@ -78,14 +78,14 @@ Save a few in a jar or a bag and send us a photo, or call us. We will tell you w
 
 **If you are selling:** An inspection can help you find and fix an issue before it comes up in negotiation and gives buyers more confidence.
 
-Call us with your timeline and we will schedule around it. *(Confirm with renter if written reports for real estate transactions are available and how fast they can be done.)*
+Call us with your timeline and we will schedule around it. *(Confirm with business if written reports for real estate transactions are available and how fast they can be done.)*
 
 ***
 
 ## What You Get After the Inspection
 
 * A clear explanation of what we found, in plain language
-* Notes on any activity, damage or conditions that raise risk *(add photos and a written report if the renter provides them)*
+* Notes on any activity, damage or conditions that raise risk *(add photos and a written report if the business provides them)*
 * If we find termites: treatment options and a price. See [Termite Control](/termite-control-downers-grove-il)
 * If we find none: tips to lower your risk and a suggested time for a re-check
 
@@ -93,7 +93,7 @@ Call us with your timeline and we will schedule around it. *(Confirm with renter
 
 ## How Long the Inspection Takes
 
-Most homes take about an hour, and larger homes or homes with more crawl space take longer. *(Confirm time with renter.)*
+Most homes take about an hour, and larger homes or homes with more crawl space take longer. *(Confirm time with business.)*
 
 ***
 
@@ -116,7 +116,7 @@ We inspect homes in Downers Grove, including ZIP codes 60515 and 60516, and in n
 ## Frequently Asked Questions
 
 **How much does a termite inspection cost?**
-The price depends on the size of the home and the purpose of the inspection. *(Fill in whether the renter offers free inspections for homeowners or charges a fee, and for real estate reports.)*
+The price depends on the size of the home and the purpose of the inspection. *(Fill in whether the business offers free inspections for homeowners or charges a fee, and for real estate reports.)*
 
 **How long does a termite inspection take?**
 Most take about an hour. Larger homes or those with complex crawl spaces can take longer.

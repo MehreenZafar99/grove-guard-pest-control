@@ -36,7 +36,7 @@ For a full list of signs and what a check looks like, see our [Termite Inspectio
 
 ## Termite Treatment Options
 
-The right treatment depends on your home, where the termites are and how far the problem has spread. *(Confirm with renter which methods they use and edit this section.)*
+The right treatment depends on your home, where the termites are and how far the problem has spread. *(Confirm with business which methods they use and edit this section.)*
 
 **Liquid soil treatment.** A liquid termite treatment is applied to the soil around and under your home to create a barrier. This can mean digging a trench along the foundation and, in some cases, drilling through concrete such as a patio or garage slab to reach the soil beneath. Termites that pass through the barrier are killed or carry the product back to the colony.
 
@@ -56,7 +56,7 @@ We will explain which option fits your home and why before any work begins.
 
 **3. Treatment.** We carry out the treatment. The time it takes depends on the size of your home and the method used.
 
-**4. Follow up.** Termite treatment needs ongoing checks. We return to confirm the results and, if you use bait stations, to monitor them. *(Confirm follow up schedule and warranty terms with renter.)*
+**4. Follow up.** Termite treatment needs ongoing checks. We return to confirm the results and, if you use bait stations, to monitor them. *(Confirm follow up schedule and warranty terms with business.)*
 
 ***
 
@@ -114,22 +114,22 @@ We provide termite control in Downers Grove, including ZIP codes 60515 and 60516
 Look for mud tubes on foundation walls, shed wings near windows and doors, and wood that sounds hollow. Many infestations are hidden, so a professional inspection is the best way to be sure.
 
 **Do I need an inspection before treatment?**
-Yes. We need to find where the termites are and how far they have spread so we can choose the right treatment. See our [Termite Inspection](/termite-inspection-downers-grove-il) page. *(Confirm with renter whether the inspection is free.)*
+Yes. We need to find where the termites are and how far they have spread so we can choose the right treatment. See our [Termite Inspection](/termite-inspection-downers-grove-il) page. *(Confirm with business whether the inspection is free.)*
 
 **How long does termite treatment take?**
-Application can take a day or so for most homes, depending on size and method. The termites themselves take longer to clear, from days with some liquid treatments to months with bait. *(Confirm with renter.)*
+Application can take a day or so for most homes, depending on size and method. The termites themselves take longer to clear, from days with some liquid treatments to months with bait. *(Confirm with business.)*
 
 **Do I need to leave my home during treatment?**
-For most treatments, no. Your technician will tell you if anything needs to be avoided during or after the work. *(Confirm with renter.)*
+For most treatments, no. Your technician will tell you if anything needs to be avoided during or after the work. *(Confirm with business.)*
 
 **Is termite treatment safe for children and pets?**
-Termite products are applied following the label and safety rules, mostly in the soil around the foundation or in sealed bait stations. Your technician will explain where products were applied. *(Confirm with renter.)*
+Termite products are applied following the label and safety rules, mostly in the soil around the foundation or in sealed bait stations. Your technician will explain where products were applied. *(Confirm with business.)*
 
 **Does homeowners insurance cover termite damage?**
 Often it does not. Many policies exclude termite damage, so it is worth checking with your insurance provider.
 
 **Can I treat termites myself?**
-Store bought products rarely reach the whole colony, and a partial treatment can leave termites behind. Professional treatment gives you a plan that covers the whole home and a follow up. *(Confirm warranty details with renter.)*
+Store bought products rarely reach the whole colony, and a partial treatment can leave termites behind. Professional treatment gives you a plan that covers the whole home and a follow up. *(Confirm warranty details with business.)*
 
 ***
 

@@ -62,7 +62,7 @@ In spring, spiders come out of hiding as insects become active, and you may see 
 
 **4. Cut off the food.** By reducing other insects, we make the home less attractive. We also point out gaps that need sealing.
 
-**5. Follow up.** Spiders can return, especially in fall. We check results and adjust the plan. *(Confirm with renter.)*
+**5. Follow up.** Spiders can return, especially in fall. We check results and adjust the plan. *(Confirm with business.)*
 
 ***
 
@@ -109,7 +109,7 @@ Most are not. The spiders that are usually found inside Illinois homes, like hou
 Spiders go where the food is. A lot of spiders often means a lot of other insects. Outdoor lights, gaps and clutter also make your home a better place for them.
 
 **How long does spider control take?**
-Most homes see a big drop in spiders within a couple of weeks, but seasonal spiders can come back. Regular visits keep numbers down. *(Confirm with renter.)*
+Most homes see a big drop in spiders within a couple of weeks, but seasonal spiders can come back. Regular visits keep numbers down. *(Confirm with business.)*
 
 **Will spraying get rid of spiders for good?**
 Not by itself. Spiders return if insects and gaps remain. Treating the outside of the home, removing webs and reducing other pests gives longer lasting results.
@@ -118,7 +118,7 @@ Not by itself. Spiders return if insects and gaps remain. Treating the outside o
 You can, but there is no need to panic. Spiders eat other pests. If you have many, or if you want them out, we can treat the reasons they are there.
 
 **Is spider treatment safe for children and pets?**
-Your technician uses products following the label and explains where they were applied and if anything needs to be avoided for a short time. Tell us about children and pets before we start. *(Confirm with renter.)*
+Your technician uses products following the label and explains where they were applied and if anything needs to be avoided for a short time. Tell us about children and pets before we start. *(Confirm with business.)*
 
 **Do spiders come in from the yard?**
 Yes. Many spiders live in shrubs, woodpiles, leaves and tree bark near the house and come in through gaps or when weather changes. Treating the outside of the home is a key step.
