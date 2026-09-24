@@ -35,7 +35,7 @@ NOTE_RE = re.compile(r"[ \t]*\*\([^)]*\)\*")
 HREF_RE = re.compile(r'href="(/[^"]*)"')
 TOKEN_PLAIN = [
     ("[Business Name]", "{{BUSINESS_NAME}}"),
-    ("[Email]", "contact@ilpestcontroldownersgrove.com"),
+    ("[Email]", "contact@pestcontroldownersgroveil.com"),
     ("[Date]", "{{EFFECTIVE_DATE}}"),
     ("[License number]", "{{LICENSE_NUMBER}}"),
 ]
@@ -138,7 +138,7 @@ def inline(text: str) -> str:
 
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link_sub, text)
     text = text.replace("[Phone]", '<a href="tel:{{PHONE_TEL}}">{{PHONE_DISPLAY}}</a>')
-    text = text.replace("[Email]", '<a href="mailto:contact@ilpestcontroldownersgrove.com">contact@ilpestcontroldownersgrove.com</a>')
+    text = text.replace("[Email]", '<a href="mailto:contact@pestcontroldownersgroveil.com">contact@pestcontroldownersgroveil.com</a>')
     text = apply_plain_tokens(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     return text
