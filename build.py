@@ -7,6 +7,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+SITE_URL = "https://pestcontroldownersgroveil.com"
+OG_IMAGE_URL = f"{SITE_URL}/assets/hero-pest-control.webp"
 
 INNER_CSS = """
 /* inner page layout */
@@ -456,7 +458,7 @@ def faq_jsonld(slug: str, faqs: list[tuple[str, str]]) -> str:
     data = {
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        "@id": f"{{{{SITE_URL}}}}/{slug}/#faq",
+        "@id": f"{SITE_URL}/{slug}/#faq",
         "mainEntity": entities,
     }
     dumped = json.dumps(data, indent=2, ensure_ascii=False)
@@ -586,7 +588,7 @@ def render_page(page: dict, chrome: dict) -> str:
     if related:
         body_parts.append(related)
 
-    canonical = f"{{{{SITE_URL}}}}/{slug}/"
+    canonical = f"{SITE_URL}/{slug}/"
     faq_block = "\n" + faq_jsonld(slug, faqs) + "\n" if faqs else "\n"
 
     cta_html = ""
@@ -642,7 +644,7 @@ def render_page(page: dict, chrome: dict) -> str:
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{canonical}">
-<meta property="og:image" content="{{{{OG_IMAGE_URL}}}}">
+<meta property="og:image" content="{OG_IMAGE_URL}">
 <meta name="twitter:card" content="summary_large_image">
 
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2310253a'/%3E%3Ccircle cx='16' cy='17' r='6' fill='%23f0b429'/%3E%3C/svg%3E">
@@ -759,8 +761,8 @@ def build_all_pages(index_html: str) -> list[str]:
 
 
 def write_sitemap(slugs: list[str]) -> None:
-    urls = ["{{SITE_URL}}/"]
-    urls.extend(f"{{{{SITE_URL}}}}/{slug}/" for slug in slugs)
+    urls = [f"{SITE_URL}/"]
+    urls.extend(f"{SITE_URL}/{slug}/" for slug in slugs)
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -776,7 +778,7 @@ def write_sitemap(slugs: list[str]) -> None:
 
 
 def write_robots() -> None:
-    text = "User-agent: *\nAllow: /\n\nSitemap: {{SITE_URL}}/sitemap.xml\n"
+    text = f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n"
     (ROOT / "robots.txt").write_text(text, encoding="utf-8", newline="\n")
     print("wrote robots.txt")
 
