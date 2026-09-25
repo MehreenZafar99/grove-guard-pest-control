@@ -52,4 +52,4 @@ We may revise these Terms and Conditions when the website, our services or appli
 
 ## Contact Us
 
-Questions about these Terms and Conditions may be directed to Grove Guard Pest Control at [contact@pestcontroldownersgroveil.com](mailto:contact@pestcontroldownersgroveil.com), by calling [(630) 555-0184](tel:+16305550184), or by writing to 940 Curtiss Street, Downers Grove, IL 60515.
+Questions about these Terms and Conditions may be directed to Grove Guard Pest Control at [contact@pestcontroldownersgroveil.com](mailto:contact@pestcontroldownersgroveil.com), by calling [(630) 389-8345](tel:+16303898345), or by writing to 940 Curtiss Street, Downers Grove, IL 60515.

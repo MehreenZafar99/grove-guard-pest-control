@@ -48,4 +48,4 @@ This website may link to websites that Grove Guard Pest Control does not control
 
 ## Contact Us
 
-If you have questions about this Privacy Policy or want to make a privacy request, contact Grove Guard Pest Control at [contact@pestcontroldownersgroveil.com](mailto:contact@pestcontroldownersgroveil.com), call [(630) 555-0184](tel:+16305550184), or write to 940 Curtiss Street, Downers Grove, IL 60515.
+If you have questions about this Privacy Policy or want to make a privacy request, contact Grove Guard Pest Control at [contact@pestcontroldownersgroveil.com](mailto:contact@pestcontroldownersgroveil.com), call [(630) 389-8345](tel:+16303898345), or write to 940 Curtiss Street, Downers Grove, IL 60515.

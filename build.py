@@ -139,7 +139,7 @@ def inline(text: str) -> str:
         return f'<a href="{slash_path(url)}">{label}</a>'
 
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link_sub, text)
-    text = text.replace("[Phone]", '<a href="tel:{{PHONE_TEL}}">{{PHONE_DISPLAY}}</a>')
+    text = text.replace("[Phone]", '<a href="tel:+16303898345">(630) 389-8345</a>')
     text = text.replace("[Email]", '<a href="mailto:contact@pestcontroldownersgroveil.com">contact@pestcontroldownersgroveil.com</a>')
     text = apply_plain_tokens(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
@@ -148,7 +148,7 @@ def inline(text: str) -> str:
 
 def plain_text(text: str) -> str:
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
-    text = text.replace("[Phone]", "{{PHONE_DISPLAY}}")
+    text = text.replace("[Phone]", "(630) 389-8345")
     text = apply_plain_tokens(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
     text = re.sub(r"\s+", " ", text).strip()
@@ -204,7 +204,7 @@ def estimate_form(source_page: str = "/", options: list[str] | None = None) -> s
       </div>
       <label class="consent"><input type="checkbox" name="consent" required><span>I agree to be contacted about my request by call, text or email.</span></label>
       <button class="btn btn--gold btn--lg" type="submit">Request my free estimate</button>
-      <p class="form-note">Prefer to talk? Call <a href="tel:{{{{PHONE_TEL}}}}">{{{{PHONE_DISPLAY}}}}</a></p>
+      <p class="form-note">Prefer to talk? Call <a href="tel:+16303898345">(630) 389-8345</a></p>
     </form>"""
 
 
@@ -279,11 +279,11 @@ def button_html(line: str) -> str:
     parts = []
     if "**[Call [Phone]]**" in s:
         parts.append(
-            '<a class="btn btn--gold btn--lg" href="tel:{{PHONE_TEL}}"><svg class="i" aria-hidden="true"><use href="#i-phone"/></svg>Call {{PHONE_DISPLAY}}</a>'
+            '<a class="btn btn--gold btn--lg" href="tel:+16303898345"><svg class="i" aria-hidden="true"><use href="#i-phone"/></svg>Call (630) 389-8345</a>'
         )
     elif "**[Call Now]**" in s:
         parts.append(
-            '<a class="btn btn--gold btn--lg" href="tel:{{PHONE_TEL}}"><svg class="i" aria-hidden="true"><use href="#i-phone"/></svg>Call Now</a>'
+            '<a class="btn btn--gold btn--lg" href="tel:+16303898345"><svg class="i" aria-hidden="true"><use href="#i-phone"/></svg>Call Now</a>'
         )
     if "**[Get a Free Estimate]**" in s:
         parts.append(
@@ -499,9 +499,9 @@ def parse_markdown(path: Path) -> dict:
     return {
         "slug": slug,
         "url": url if url.endswith("/") or url == "/" else url,
-        "title": apply_plain_tokens(meta["SEO Title"]).replace("[Phone]", "{{PHONE_DISPLAY}}"),
-        "description": apply_plain_tokens(meta["Meta Description"]).replace("[Phone]", "{{PHONE_DISPLAY}}"),
-        "h1": apply_plain_tokens(meta["H1"]).replace("[Phone]", "{{PHONE_DISPLAY}}"),
+        "title": apply_plain_tokens(meta["SEO Title"]).replace("[Phone]", "(630) 389-8345"),
+        "description": apply_plain_tokens(meta["Meta Description"]).replace("[Phone]", "(630) 389-8345"),
+        "h1": apply_plain_tokens(meta["H1"]).replace("[Phone]", "(630) 389-8345"),
         "intro": intro,
         "sections": sections,
         "kind": kind,
@@ -517,7 +517,7 @@ def side_call_card(estimate_href: str) -> str:
       <div class="side-card side-card--call">
         <h2>Need pest control?</h2>
         <p>Call or request a free estimate. We will inspect the problem and explain the price before any work starts.</p>
-        <a class="btn btn--gold" href="tel:{{{{PHONE_TEL}}}}"><svg class="i" aria-hidden="true"><use href="#i-phone"></use></svg>Call {{{{PHONE_DISPLAY}}}}</a>
+        <a class="btn btn--gold" href="tel:+16303898345"><svg class="i" aria-hidden="true"><use href="#i-phone"></use></svg>Call (630) 389-8345</a>
         <a class="btn btn--outline" href="{estimate_href}">Get a free estimate</a>
       </div>
     </aside>"""
