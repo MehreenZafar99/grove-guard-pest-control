@@ -1,0 +1,9 @@
+# Prevent long CDN caching of HTML (stops deleted pages sticking for up to 7 days).
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*/
+  Cache-Control: public, max-age=0, must-revalidate
