@@ -16,7 +16,7 @@ We help Downers Grove homeowners and businesses get rid of pests and keep them o
 
 ## Who We Are
 
-[Business Name] is a pest control company serving Downers Grove and the nearby DuPage County towns. *(Add a short true story here: who runs the company, how long they have worked in pest control, and why they started. Use real details from the business.)*
+[Business Name] is a pest control company serving Downers Grove, IL. *(Add a short true story here: who runs the company, how long they have worked in pest control, and why they started. Use real details from the business.)*
 
 Our technicians live and work in the Chicago area. They know how pests behave in our climate, from mice in the first cold snap to termites after a warm spring rain.
 
@@ -77,7 +77,7 @@ See everything on our [Services page](/services).
 Yes. [Business Name] holds an Illinois structural pest control license and works with certified technicians. Our license number is [License number].
 
 **Where do you provide service?**
-We serve Downers Grove, including ZIP codes 60515 and 60516, and nearby towns such as Lisle, Woodridge, Westmont, Darien and Clarendon Hills. If you are close by, call us anyway.
+We serve Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 **Do you work on homes and businesses?**
 Yes. We help homeowners, renters, landlords and businesses. Call [Phone] or send the form and tell us what type of property you have.

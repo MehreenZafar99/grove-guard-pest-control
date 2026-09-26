@@ -96,7 +96,7 @@ Most spider bites are minor. If a bite causes severe pain, spreading redness, bl
 
 ## Spider Control Across Downers Grove
 
-We treat spiders in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien. If you are close by, call us anyway.
+We treat spiders in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 ***
 

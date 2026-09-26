@@ -98,7 +98,7 @@ Regular visits keep a protective barrier in place while pests are most active. T
 
 ## Plan Areas in Downers Grove
 
-We offer the plan in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont, Darien and Clarendon Hills.
+We offer the plan in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

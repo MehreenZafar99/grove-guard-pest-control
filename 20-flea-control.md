@@ -88,7 +88,7 @@ Flea control works best when the home, the yard and the pet are all handled toge
 
 ## Fleas Across Downers Grove
 
-We treat fleas in homes and yards throughout Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien.
+We treat fleas in homes and yards throughout Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

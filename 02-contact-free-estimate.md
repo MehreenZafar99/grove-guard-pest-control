@@ -70,7 +70,7 @@ If you are not sure what pest you have, that is fine. A photo helps, and we can 
 
 ## Areas We Serve
 
-We help homes and businesses in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont, Darien, Clarendon Hills, Hinsdale, Oak Brook, Willowbrook, Glen Ellyn and Naperville. If you are outside these areas, call us anyway.
+We help homes and businesses in Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 ***
 
@@ -79,7 +79,7 @@ We help homes and businesses in Downers Grove, including ZIP codes 60515 and 605
 **[Business Name]**
 Phone: [Phone]
 Email: [Email]
-Service area: Downers Grove, IL and nearby DuPage County towns
+Service area: Downers Grove, IL (ZIP codes 60515 and 60516)
 Hours: [Days and hours]
 
 ***

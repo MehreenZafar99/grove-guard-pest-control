@@ -88,7 +88,7 @@ In Illinois, mosquitoes start to appear in late spring when temperatures warm up
 
 ## Mosquito Control Across Downers Grove
 
-We treat yards in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien.
+We treat yards in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

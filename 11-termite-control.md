@@ -104,7 +104,7 @@ The price depends on the treatment type, the size and layout of your home, how f
 
 ## Termite Control Across Downers Grove
 
-We provide termite control in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien.
+We provide termite control in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

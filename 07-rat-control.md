@@ -92,7 +92,7 @@ Rats cause damage fast. They chew wires, which can be a fire risk. They damage i
 
 ## Rat Control Across Downers Grove
 
-We provide rat control in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien.
+We provide rat control in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

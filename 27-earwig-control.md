@@ -119,7 +119,7 @@ Earwig numbers build through spring and early summer and are usually highest in 
 
 ## Earwig Control Across Downers Grove
 
-We treat earwigs in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien. If you are close by, call us anyway.
+We treat earwigs in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 ***
 

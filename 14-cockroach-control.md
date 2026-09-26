@@ -95,7 +95,7 @@ Roaches can contaminate food and surfaces. Their droppings, shed skins and saliv
 
 ## Cockroach Control Across Downers Grove
 
-We treat cockroaches in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien. If you are close by, call us anyway.
+We treat cockroaches in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 ***
 

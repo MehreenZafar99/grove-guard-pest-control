@@ -86,7 +86,7 @@ If rodents are a repeat problem at your home, our [Home Pest Protection Plan](/h
 
 ## Rodent Control Across Downers Grove
 
-We provide rodent control in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont, Darien and Clarendon Hills.
+We provide rodent control in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

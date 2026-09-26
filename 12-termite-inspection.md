@@ -109,7 +109,7 @@ Most homes take about an hour, and larger homes or homes with more crawl space t
 
 ## Termite Inspections Across Downers Grove
 
-We inspect homes in Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien.
+We inspect homes in Downers Grove, including ZIP codes 60515 and 60516.
 
 ***
 

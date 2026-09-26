@@ -98,7 +98,7 @@ The sooner it is treated, the smaller the repair.
 
 ## Carpenter Ant Control Across Downers Grove
 
-We treat carpenter ants in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516, and in nearby towns such as Lisle, Woodridge, Westmont and Darien. If you are close by, call us anyway.
+We treat carpenter ants in homes and businesses throughout Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
 
 ***
 
