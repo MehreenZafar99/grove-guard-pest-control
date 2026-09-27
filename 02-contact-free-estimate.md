@@ -70,7 +70,7 @@ If you are not sure what pest you have, that is fine. A photo helps, and we can 
 
 ## Areas We Serve
 
-We help homes and businesses in Downers Grove, including ZIP codes 60515 and 60516. If you are just outside the village, call us and we will let you know.
+We help homes and businesses in Downers Grove, including ZIP codes 60515 and 60516, and Naperville. If you are just outside these areas, call us and we will let you know.
 
 ***
 
@@ -79,7 +79,7 @@ We help homes and businesses in Downers Grove, including ZIP codes 60515 and 605
 **[Business Name]**
 Phone: [Phone]
 Email: [Email]
-Service area: Downers Grove, IL (ZIP codes 60515 and 60516)
+Service area: Downers Grove, IL (ZIP codes 60515 and 60516) and Naperville
 Hours: [Days and hours]
 
 ***
